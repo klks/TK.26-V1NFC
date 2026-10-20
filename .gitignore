@@ -1,0 +1,16 @@
+# Build output - `make` regenerates all of it.
+build/
+*.o
+*.d
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
+
+# OS and editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
